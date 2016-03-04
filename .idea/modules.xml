@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/.ghq/github.com/jmatsu/KotlinParclerSample/KotlinParclerSample.iml" filepath="$USER_HOME$/.ghq/github.com/jmatsu/KotlinParclerSample/KotlinParclerSample.iml" />
+      <module fileurl="file://$USER_HOME$/.ghq/github.com/jmatsu/KotlinParclerSample/app/app.iml" filepath="$USER_HOME$/.ghq/github.com/jmatsu/KotlinParclerSample/app/app.iml" />
+    </modules>
+  </component>
+</project>
