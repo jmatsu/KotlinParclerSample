@@ -8,7 +8,7 @@ import org.parceler.ParcelProperty
  * Created by jmatsu on 2016/03/05.
  */
 
-@Parcel
+@Parcel(Parcel.Serialization.BEAN)
 data class ParcelableModel @ParcelConstructor constructor(
 
         @ParcelProperty("id")
